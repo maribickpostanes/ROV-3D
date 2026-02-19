@@ -1,1 +1,1 @@
-# ROV-3D
+This repository hosts an interactive 3D plot of an ROV, processed from a converted GLB file originally sourced from a STEP CAD file. The model has been specifically optimized for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
