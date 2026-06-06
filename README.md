@@ -9,4 +9,4 @@ Note on Viewing: This is a high-resolution export (94.3 MB). For best experience
 
 ## Technical Attribution & Asset Pipeline:
 - 3D Model: BlueRobotics BlueROV2 Standard by Rustom Jehangir via GrabCAD.
-- Data Pipeline: Handled natively via a custom Python script. The original 115 MB STEP assembly was parsed, processed, and optimized down to a web-ready 65 MB GLB file without reliance on external optimization toolkits.
+- Data Pipeline: Handled natively via a custom Python script. The original 115 MB STEP file was parsed, processed, and optimized down to a web-ready 65 MB GLB file without reliance on external optimization toolkits.
