@@ -10,7 +10,7 @@ This repository hosts a proof-of-concept, interactive 3D ROV plot visualized wit
 - [Experience the interactive 3D plot via Github Pages](https://maribickpostanes.github.io/ROV-3D/)
 - [3D Interactive ROV Linkedin Post](https://www.linkedin.com/posts/maribickpostanes_python-gc-numpy-ugcPost-7430245496675278849-xaA7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0zM30B4KzLX-dj_Wzk1w4cfxNQrmDmOYs)
 
-## Technical Attribution and Asset Pipeline:
+## Technical Attribution and Asset Pipeline
 * **3D Model:** BlueRobotics BlueROV2 Standard by Rustom Jehangir via GrabCAD
 * **Data Pipeline:** The original 115 MB STEP file was parsed, processed, and optimized down to a web-ready 65 MB GLB file entirely through my own custom Python script.
 
